@@ -1,0 +1,12 @@
+.container-fluid{
+    background-color: #004F9C;
+}
+.gradient{
+    background: linear-gradient(to right, rgb(9,127,201), rgb(0,39,78));
+    position: relative;
+    z-index: 2;
+}
+.prender{
+    position: relative;
+    z-index: 1;
+}
